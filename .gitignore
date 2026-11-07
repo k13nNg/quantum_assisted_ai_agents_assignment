@@ -1,0 +1,5 @@
+# Ignore everything in the report folder
+report/*
+
+# Except the PDF file
+!report/main.pdf
